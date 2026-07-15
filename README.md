@@ -29,7 +29,7 @@ Markdown
 ██████████████████████████████████████████████████████████
 🐍 CONTRIBUTION SNAKE
 <p align="center">
-<!-- මෙම image එක වැඩ කරන්නේ පියවර 2 සම්පූර්ණ කළ පසුයි -->
+
 <img src="https://raw.githubusercontent.com/VikumD/VikumD/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 🤖 REPOSITORY STATUS & PROJECT LEVELS
