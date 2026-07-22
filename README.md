@@ -15,8 +15,7 @@
 
 ---
 
-# ⚡ [SYSTEM_INFO]
-
+```bash
 ┌──(root㉿vikumd)-[/home/security]
 └─$ whoami
 
@@ -40,7 +39,7 @@ SHELL         : ZSH
 STATUS        : ACTIVE
 
 MISSION       : Exploit → Analyze → Secure
-
+```
 ### 🐍 CONTRIBUTION SNAKE
 <p align="center">
   <img src="https://raw.githubusercontent.com/VikumD/VikumD/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
