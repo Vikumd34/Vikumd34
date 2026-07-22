@@ -86,6 +86,11 @@
 </tr>
 </table>
 
+<p align="center">
+
+<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</p>
 ### 📊 STATS & ANALYTICS
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=VikumD&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=true" />
