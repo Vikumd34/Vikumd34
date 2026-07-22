@@ -17,16 +17,29 @@
 
 # ⚡ [SYSTEM_INFO]
 
-```diff
-██████████████████████████████████████████████████████████
-+ USERNAME       : VikumD
-+ INSTITUTION    : SLIIT (Cybersecurity Undergraduate)
-+ SPECIALIZATION : AI Security & Offensive Operations
-+ YEAR           : 03 (Semester 01)
-! STATUS         : ACTIVE_DEVELOPMENT
-- ACCESS         : AUTHORIZED_ONLY
-██████████████████████████████████████████████████████████
-```
+┌──(root㉿vikumd)-[/home/security]
+└─$ whoami
+
+Vikum D
+
+┌──(root㉿vikumd)-[/home/security]
+└─$ system-status
+
+USER          : VikumD
+ROLE          : Cybersecurity Undergraduate
+INSTITUTE     : SLIIT
+YEAR          : 3rd Year | Semester 01
+
+SPECIALTY     : AI Security
+FOCUS         : Offensive Security
+TARGETS       : Web • Network • Cloud
+
+OS            : Kali Linux
+EDITOR        : VS Code
+SHELL         : ZSH
+STATUS        : ACTIVE
+
+MISSION       : Exploit → Analyze → Secure
 
 ### 🐍 CONTRIBUTION SNAKE
 <p align="center">
